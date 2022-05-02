@@ -13,7 +13,7 @@ Running:
 - When prompted for the path to the scaled data, make sure to use the path relative to the Python - interpreter
 
 Contents:
-/data contains the input data and will be used to store the scaled df
+/data contains the input data and will be used to store the scaled df. The data used is confidential data from NASDAQ, and can not be uploaded to github
 /output contains the empty folder required for the figures being stored and the output JSONs
 .models.py contains the ML models used for forecasting
 .experiment.py contains all the helper functions for preprocessing/plotting and the experiments
